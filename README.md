@@ -1,4 +1,4 @@
-# <What color?>
+# What color?
 
 ## サイト概要
 ### サイトテーマ
